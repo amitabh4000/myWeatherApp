@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TemperatureOptions">
+        <item> Celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="TemperatureOptionsValues">
+        <item> CELSIUS</item>
+        <item>FAHRENHEIT</item>
+    </string-array>
+
+
+</resources>
